@@ -43,7 +43,7 @@ const UploadCard = ({
           onClick={handleSubmit}
           className="card-button"
         >
-          Invia
+          Send
         </button>
       </div>
       {uploading && (
