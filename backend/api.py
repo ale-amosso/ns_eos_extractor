@@ -13,7 +13,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
-    "https://eos-extractor-frontend.onrender.com"
+    "https://ns-eos-extractor-frontend.onrender.com"
 ]
 
 app.add_middleware(
