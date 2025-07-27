@@ -21,13 +21,13 @@ I documented the process of transforming a Python script in a web app in this bl
 
 ## How to Run Locally (on Windows)
 
- # Step 1: Clone the repository
+  ####  Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/ale-amosso/ns_eos_extractor.git
 cd ns_eos_extractor
 ```
- # Step 2: Set up the backend
+ #### Step 2: Set up the backend
 
 ```bash
 cd backend
@@ -36,7 +36,7 @@ python -m venv venv
 pip install -r requirements.txt
 uvicorn api:app --reload
 ```
- # Step 2: Set up the frontend in a new terminal
+ ####  Step 2: Set up the frontend in a new terminal
 
 ```bash
 cd ../frontend
