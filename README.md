@@ -14,7 +14,7 @@ Try the app here: [https://ns-eos-extractor-frontend.onrender.com](https://ns-eo
 > ⚠️ Note: Since the app is hosted on a free Render plan, the backend may take ~30–50s to "wake up" the first time. Be patient! :)
 
 ## Video
-Here's a short video showing the app in action: https://www.youtube.com/watch?v=PITA7VVK0io
+Here's a short video showing the app in action: https://vimeo.com/1105432258
 
 ## Blog Post
 I documented the process of transforming a Python script in a web app in this blog post: **[How I turned a simple Python script into a Web App with Render](https://ale-amosso.github.io/2025/07/27/scientific-demo.html)**
